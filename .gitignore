@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+captcha.png
+grabbed_ids.txt
+*.log
+*.zip
+*.output
+.venv/
+venv/
