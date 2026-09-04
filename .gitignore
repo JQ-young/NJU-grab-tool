@@ -7,3 +7,6 @@ grabbed_ids.txt
 *.output
 .venv/
 venv/
+build/
+dist/
+*.spec

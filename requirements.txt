@@ -1,5 +1,6 @@
 requests>=2.28
 pycryptodome>=3.17
+flask>=2.2
 # ---- 可选：启用 AUTO_RELOGIN（点选验证码自动重登）时取消下面两行注释 ----
 # opencv-python>=4.8
 # numpy
