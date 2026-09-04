@@ -51,7 +51,7 @@ pip install -r requirements.txt   # 需要 flask（网页版新增）
 python grab_web.py                # 自动打开 http://127.0.0.1:8757
 ```
 
-**没有 Python 环境的同学**：到本仓库 [Releases](https://github.com/JQ-young/NJU-grab-tool/releases) 下载 `NJU_Grab.exe`，双击即用（Windows 10/11，首次启动稍慢属正常）。若浏览器没有自动打开，手动访问 http://127.0.0.1:8757 ，用完在页面点「退出程序」。
+**没有 Python 环境的同学**：直接下载仓库根目录的 [`NJU_Grab.exe`](NJU_Grab.exe)（约 9.8MB，Windows 10/11，双击即用；[Releases](https://github.com/JQ-young/NJU-grab-tool/releases) 里也有同款）。若浏览器没有自动打开，手动访问 http://127.0.0.1:8757 ，用完在页面点「退出程序」。
 
 打包命令（维护者用）：
 
