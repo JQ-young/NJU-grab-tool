@@ -10,3 +10,4 @@ venv/
 build/
 dist/
 *.spec
+api_push.py
