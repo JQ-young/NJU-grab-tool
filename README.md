@@ -73,6 +73,10 @@ python -m PyInstaller --onefile --noconsole --name NJU_Grab grab_web.py
 
 登录加密与接口逆向参考 [TheFunny233/NJUClassGrabber](https://github.com/TheFunny233/NJUClassGrabber)（原作者 [lyc8503](https://github.com/lyc8503)，MIT License）。
 
+## 截图
+
+![使用截图](screenshot.jpg)
+
 ## License
 
 MIT
